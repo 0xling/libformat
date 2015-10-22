@@ -1,2 +1,2 @@
 # libformat
-some exploit for format vulnerablity
+some exploi helper for format vulnerablity
